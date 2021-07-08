@@ -1,3 +1,14 @@
 .background{
     background-image: url(../img/horo.jpg);
   }
+
+  .game-list a{
+      color: rgb(168, 132, 102);
+      line-height: 1.8em;
+
+  }
+
+  .game-list{
+    list-style: none;
+    margin-left: 4em;
+  }
